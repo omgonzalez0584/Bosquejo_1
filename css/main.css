@@ -1,0 +1,59 @@
+*{
+  margin:0px;
+  padding:0px;
+}
+
+.box{
+  width:80%;
+  margin:0 auto;
+  padding:50px;
+}
+
+nav{
+  width:100%;
+  border:1px solid ;
+}
+
+section{
+  float:left;
+  width:70%;
+  margin-top:20px;
+  border: 1px solid;
+}
+
+
+
+.art1{
+  margin-top:20px;
+  padding:20px;
+  border:1px solid;
+}
+
+.art2{
+  margin-top:20px;
+  padding:20px;
+  border:1px solid;
+}
+
+aside{
+  margin-top:20px;
+  float:left;
+  width:29.7%;
+  border: 1px solid;
+}
+
+footer{
+  clear:both;
+  width:100%;
+  border: 1px solid;
+}
+
+ul{
+  list-style-type:none;
+}
+
+li{
+  display: inline-block;
+  margin-right:40px;
+  padding:20px;
+}
